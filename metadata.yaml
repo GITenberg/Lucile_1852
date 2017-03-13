@@ -1,5 +1,8 @@
 _repo: Lucile_1852
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Robert Bulwer Lytton, Earl of
@@ -20,6 +23,8 @@ description: A pseudonym adopted by Edward Robert, first Earl of Lytton, son of 
   son and the Duke's niece fall in love, are separated by the old feud but finally
   reunited through the efforts of Lucile, who has become a nursing nun, under the
   name of Soeur Seraphine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1852#Lucile
 gutenberg_issued: '1999-08-01'
 gutenberg_type: Text
 identifiers:
